@@ -1,4 +1,4 @@
-# Case-Study-How-Does-a-Bike-Share-Navigate-Speedy-Success-
+# Cyclistic Bike Sharing Company Case Study
 
 Project Overview:-
 
