@@ -1,5 +1,7 @@
 ## Cyclistic Bike Sharing Company Case Study
 
+This repository consists (Bike Share Case Study Detailed Work) **pdf** in which I have explained every step during this analysis, a (Bike Share Project Presentation) **Power Point presentation** which I have created to expalain the outcomes of the analysis and a (BikeSharingDataExploratoryAnalysis1) **jupyter notebook** script I have created during this analysis.
+
 **Project Overview: -**
 
 Cyclistic, a Chicago-based bike-share company, aims to maximize annual memberships by understanding the differences in bike usage between annual members and casual riders. This case study is part of a broader initiative to design effective marketing strategies and convert casual riders into annual members. The focus is on answering the question: How do annual members and casual riders use Cyclistic bikes differently?
